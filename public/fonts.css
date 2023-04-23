@@ -36,3 +36,27 @@
   font-display: swap;
   font-weight: 700;
 }
+
+@font-face {
+  font-family: "FZJLJW";
+  src: url("FZJLJW.TTF");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FZXUJLXSJW";
+  src: url("FZXUJLXSJW.TTF");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FZPHTJW";
+  src: url("FZPHTJW.TTF");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FZFWZhuZiAYuanJWM";
+  src: url("FZFWZhuZiAYuanJWM.TTF");
+  font-display: swap;
+}
