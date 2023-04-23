@@ -699,7 +699,27 @@ export const actionChangeFontFamily = register({
       {
         value: FONT_FAMILY.Cascadia,
         text: t("labels.code"),
-        icon: FontFamilyCodeIcon,
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.FZJLJW,
+        text: t("labels.handJL"),
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.FZXUJLXSJW,
+        text: t("labels.handJLXS"),
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.FZPHTJW,
+        text: t("labels.handPH"),
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.FZFWZhuZiAYuanJWM,
+        text: t("labels.handZZA"),
+        icon: FreedrawIcon,
       },
     ];
 
